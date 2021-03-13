@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 13 Mar 2021 07:00:55 at https://pay.google.com/about +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://pay.google.com/about -O1 "C:\My Web Sites\google pay" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:06:02	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://pay.google.com/about/)
+07:07:12	Error: 	"Not Found" (404) at link https://pay.google.com/intl/en_au/about/https://ptv.vic.gov.au/tickets/myki/mobile-myki/ (from https://pay.google.com/intl/en_au/about/)
+07:10:31	Error: 	"Not Found" (404) at link https://pay.google.com/about/static_kcs/fonts/icons.svg (from https://pay.google.com/about/static_kcs/css/base.min.css)
+07:10:43	Warning: 	Found for https://pay.google.com/business/console/
+07:10:43	Warning: 	File has moved from https://pay.google.com/business/console/ to https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://pay.google.com/business/console/&followup=https://pay.google.com/business/console/
+07:10:45	Warning: 	Moved Temporarily for https://pay.google.com/
+07:10:45	Warning: 	File has moved from https://pay.google.com/ to https://pay.google.com/payments/home
+07:12:01	Error: 	"Not Found" (404) at link https://pay.google.com/about/static/fonts/icons.svg (from https://pay.google.com/about/static/css/bundle.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 10 seconds : 370 links scanned, 363 files written (23422555 bytes overall) [11644428 bytes received at 17379 bytes/sec], 15330231 bytes transferred using HTTP compression in 270 files, ratio 20%
+(4 errors, 4 warnings, 0 messages)

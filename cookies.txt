@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.google.com	TRUE	/	FALSE	1999999999	NID	211=fG2i9PqiGwwDymAhiewzJOPL-VrLKv15l5FduK_4lzZJhYMSb9m9GXNRbjLeRdcn9lBmpxQVjcqD480ynk6V7xbEV7jtNyhwRrt3PUscWN560ggdwFMqTiOX_DkYE1RaZQrewFK2QVKMSo7tMexMk24kwuNDcrIc6IdI5z8xSFE
+.google.com	TRUE	/	FALSE	1999999999	S	billing-ui-v3=6yswH5f1TBqq2yWd_5Czf4-SHDAd7s6U:billing-ui-v3-efe=6yswH5f1TBqq2yWd_5Czf4-SHDAd7s6U
+pay.google.com	TRUE	/	FALSE	1999999999	Priority	LOW
+
